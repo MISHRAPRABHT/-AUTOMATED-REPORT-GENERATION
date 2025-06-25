@@ -90,3 +90,7 @@ Next 5-7 Days: Finalize documentation and conduct thorough testing.
 Conclusion
 The project is fully functional, successfully converting CSV data into a professional PDF report. The script is well-structured, with robust error handling and a clear workflow. Minor enhancements, such as flexible file inputs and improved PDF formatting, will further improve usability. The project is on track for completion, with potential for advanced features like statistical summaries or customizable report layouts. Please advise on priority areas or additional requirements.
 
+
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/423e878a-d3a2-4ef6-8a36-33761c38e7cf" />
+[report.pdf](https://github.com/user-attachments/files/20902552/report.pdf)
+
